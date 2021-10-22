@@ -6,7 +6,7 @@ parentheses. For example, the expression
 should be compiled according to the following table
 
 Operator     Operand1    Operand2    Result
------------ ----------- ----------- --------
+
     *            b           c         z
     +            a           z         y
     -            y           d         x
