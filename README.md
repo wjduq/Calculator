@@ -1,4 +1,5 @@
 # Calculator
+### Authors: Will Duquette and Elijah Stein
 
 This is a program that uses the Stack abstract data type to compile a simple arithmetic expression without
 parentheses. For example, the expression
