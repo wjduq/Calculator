@@ -14,3 +14,4 @@ should be compiled according to the following table
 The table shows the order in which the operations are performed (*, +, –) and operands for each operator. The
 result column gives the name of an identifier (working backward from z) chosen to hold each result. The operands 
 are the letters a through m and the operators are (+, –, *, /). 
+
